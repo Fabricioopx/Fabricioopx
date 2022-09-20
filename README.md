@@ -1,6 +1,6 @@
 ## Seja bem-vindo(a) ao meu perfil!
 
-<img align="center" height=200 width=200 src="https://giphy.com/gifs/OiNIisSVTYsqr4UExf?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
+<img align="center" height=200 width=200 src="https://media.giphy.com/media/OiNIisSVTYsqr4UExf/giphy.gif">
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabricioopx&show_icons=true&theme=dark"/>
