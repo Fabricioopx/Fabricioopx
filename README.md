@@ -8,8 +8,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioopx&layout=compact&theme=dark"/>
 </div>
 
-<br>
-
 ## Tecnologias
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=blue)
