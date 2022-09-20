@@ -14,4 +14,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7e04a?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=373837)
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <br>
