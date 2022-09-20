@@ -16,9 +16,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7e04a?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=373837)
 
 <br>
- 
-## Redes Sociais
-<div>
-  <a href="https://twitter.com/kauewebdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/kauesim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-</div>
