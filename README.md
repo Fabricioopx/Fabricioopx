@@ -1,6 +1,7 @@
 ## Seja bem-vindo(a) ao meu perfil!
 
-<img align="center" height=200 width=200 src="https://media.giphy.com/media/OiNIisSVTYsqr4UExf/giphy.gif">
+<img align="center" height=200 width=200 src="https://media.giphy.com/media/d5eaSZBqgiX2OB7DcB/giphy.gif
+">
 <br>
 
 <div>
